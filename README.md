@@ -1,5 +1,5 @@
 # Coffee Sales Performance Dashboard
-
+**The dashboard provides insights into coffee sales performance, highlighting key metrics including:**
 ## Key Metrics
 
 1. **Total Sales Revenue**
